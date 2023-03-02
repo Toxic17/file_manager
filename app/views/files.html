@@ -1,0 +1,60 @@
+{% include "layouts/header.html" %}
+<div class="content mt-5">
+    <div class="container">
+        <div class="mt-3 file-list">
+    {% if files is empty %}
+            No files uploaded
+            {% else %}
+
+            {% for file in files %}
+            <div class="file-list__item mb-3">
+                <h3>{{ file.name ~ file.old_type }}</h3>
+                <div class="file-list__item__property d-flex align-items-center">
+                    <p>Size: {{ (file.size / 10**6)|round(4,'floor') }} MB</p>
+                    <p>Date upload: {{ file.date }} </p>
+                    <p>File extension: {{ file.old_type }} </p>
+                    <p><a href="/files/load/{{file.id}}"> <img src="/img/dowload.png" alt="download image"> </a> </p>
+                    <p><a class="copy-link" href="/files/load/{{file.id}}"> <img src="/img/copy.jpg" alt="Copy link image"> </a></p>
+                </div>
+                <a id="file-{{file.id}}" data-status="close" class="comment-link" href="/files/comments/{{file.id}}">Show all comments({{file.count_comments}})</a>
+            </div>
+                {% endfor %}
+        </div>
+        {% if count_pages > 1 %}
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                <li class="page-item"><a class="page-link {% if page-1<1 %} disabled {% endif %}" href="/files?page={{page - 1}}">Previous</a></li>
+                {% for i in 1..count_pages %}
+                <li class="page-item"><a class="page-link {% if page == i %} active {% endif %}" href="/files?page={{i}}">{{i}}</a></li>
+                {% endfor %}
+                <li class="page-item"><a class="page-link {% if page == count_pages %} disabled {% endif %}" href="/files?page={{ page+1}}">Next</a></li>
+            </ul>
+        </nav>
+        {% endif %}
+    </div>
+</div>
+{% endif %}
+    {% if errors.file_pag is not empty %}
+    <div class="alert alert-danger file_status p-0" role="alert">
+        <div class="alert__container p-3">
+            <p class="mt-2 mb-0">
+                {{errors.file_pag}}
+            </p>
+            <button type="button" class="btn-close custom-btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    </div>
+    {% endif %}
+    {% if flash.getMessage('error') is not empty %}
+    <div class="alert alert-danger file_status p-0" role="alert">
+        <div class="alert__container p-3">
+            <p class="mt-2 mb-0">
+            </p>
+            <button type="button" class="btn-close custom-btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    </div>
+    {% endif %}
+{% if files is not empty %}
+<script src="/js/ajaxComment.js"></script>
+<script src="/js/copy.js"></script>
+{% endif %}
+{% include "layouts/footer.html" %}

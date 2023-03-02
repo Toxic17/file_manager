@@ -1,0 +1,26 @@
+{% include "layouts/header.html" %}
+<div class="content">
+  <div class="container-fluid mt-3">
+    {% if search_count == 0 %}
+    <h3>File not found</h3>
+    {% else %}
+    <h3>Files found: {{search_count}}</h3>
+      {% for file in search_results %}
+        <div class="file-list__item mb-3">
+          <h3>{{ file.name ~ file.old_type }}</h3>
+          <div class="file-list__item__property d-flex align-items-center">
+            <p>Size: {{ (file.size / 10**6)|round(4,'floor') }} MB</p>
+            <p>Date upload: {{ file.date }} </p>
+            <p>File extension: {{ file.old_type }} </p>
+            <p><a href="/files/load/{{file.id}}"> <img src="/img/dowload.png" alt="download image"> </a> </p>
+          </div>
+          <a id="file-{{file.id}}" data-status="close" class="comment-link" href="/files/comments/{{file.id}}">Show all comments({{file.count_comments}})</a>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+{% if search_count != 0 %}
+<script src="/js/ajaxComment.js"></script>
+{% endif %}
+{% include "layouts/footer.html" %}

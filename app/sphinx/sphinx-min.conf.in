@@ -1,0 +1,61 @@
+source db{
+	type            = mysql
+    sql_host        = localhost
+    sql_user        = root
+    sql_pass        = root
+    sql_db          = file_manager
+    sql_port        = 3306 
+
+    sql_query_pre                   = SET NAMES utf8
+}
+
+source file: db
+{
+    sql_range_step          = 1000
+
+    sql_query_range         = SELECT MIN(id), MAX(id) FROM file
+ 
+    sql_query       = \
+        SELECT id, name, old_type, new_type,fake_name, UNIX_TIMESTAMP(date) AS date_added,size \
+        FROM file WHERE id BETWEEN $start AND $end
+
+    sql_attr_string       = new_type
+    sql_attr_string       = fake_name
+
+}
+
+
+index index_file
+{
+	source			= file
+	path			= C:/Server/Apache24/docs/site1.com/app/sphinx/data/file
+	morphology		= stem_ru, stem_en
+	min_word_len	= 2
+	charset_table = 0..9, A..Z->a..z, _, a..z, \
+    U+410..U+42F->U+430..U+44F, U+430..U+44F, U+401->U+451
+}
+
+searchd
+{
+
+    listen          = 9312
+
+    listen          = 9306:mysql41
+
+
+    log         = C:/Server/Apache24/docs/site1.com/app/sphinx/log
+    query_log       = C:/Server/Apache24/docs/site1.com/app/sphinx/log/query.log
+
+    read_timeout        = 5
+    max_children        = 30
+    pid_file        = C:/Server/Apache24/docs/site1.com/app/sphinx/log/searchd.pid
+    seamless_rotate     = 1
+    preopen_indexes     = 1
+    unlink_old      = 1
+    workers         = threads # for RT to work
+    binlog_path     = C:/Server/Apache24/docs/site1.com/app/sphinx/data
+}
+
+common{
+	lemmatizer_base = ./langs
+}

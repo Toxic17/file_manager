@@ -1,0 +1,1025 @@
+startup.tcl: OnStartup called
+nD3D11Server::CreateDevices()
+WARNING: undefined shader parameter: AlphaBlend
+WARNING: undefined shader parameter: NoBlend
+WARNING: undefined shader parameter: NoDepthStencil
+WARNING: undefined shader parameter: Solid
+WARNING: undefined shader parameter: SolidLine
+WARNING: undefined shader parameter: Wireframe
+WARNING: undefined shader parameter: QuadMap
+WARNING: undefined shader parameter: QuadSampler
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: AlphaBlend
+WARNING: undefined shader parameter: RectSampler
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: AlphaBlend
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+Graphics::Server: Creating 5 rendering threads...
+WARNING: undefined shader parameter: sLinearClamp
+WARNING: undefined shader parameter: AlphaBlend
+WARNING: undefined shader parameter: NoDepthStencil
+WARNING: undefined shader parameter: CullState
+nSQLite3Database::LoadResource: sqlite3_open( C:/Users/Михаил/Documents/Forward Development/City Car Driving Steam/profiles.db3 ,... )
+DirectInput device attached:
+    ProductName: "Logitech Driving Force GT USB"
+    InstanceName: "Logitech Driving Force GT USB"
+    ProductGuid: "{C29A046D-0000-0000-0000-504944564944}"
+    InstanceGuid: "{533CD0B0-7981-11ED-8003-444553540000}"
+WARNING: undefined shader parameter: sLinearClamp
+WARNING: undefined shader parameter: AlphaBlend
+WARNING: undefined shader parameter: NoDepthStencil
+WARNING: undefined shader parameter: CullState
+LoadLuaScript: export:scripts/missions/bit.lua
+LoadLuaScript: export:scripts/missions/common.lua
++loadMeshShape: 0.014634
++loadMoppCode: 0.016236
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
++loadMeshShape: 0.010629
++loadMoppCode: 0.011765
++loadMeshShape: 0.019745
++loadMoppCode: 0.022507
++loadMeshShape: 0.030405
++loadMoppCode: 0.034398
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
++loadMeshShape: 0.026735
++loadMoppCode: 0.029272
+Message from server: warning! CarBodyDetail::OnActivate (cars/Car60). Detail is not found (cars/Car60/shadow_plane)
++loadMeshShape: 0.022809
++loadMoppCode: 0.025731
++loadMeshShape: 0.016370
++loadMoppCode: 0.018212
++loadMeshShape: 0.014730
++loadMoppCode: 0.016693
+WARNING: undefined shader parameter: QuadMap
+WARNING: undefined shader parameter: QuadSampler
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: AlphaBlend
+TrackIr: DLL Location key not present
+WARNING: undefined shader parameter: QuadMap
+WARNING: undefined shader parameter: QuadSampler
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: AlphaBlend
+LoadLuaScript: data:scripts.lua/plugins/InitPager.lua
+LuaCmd: scriptPath - data:scripts.lua/plugins/InitPager.lua, cmd -InitPager
+LoadLuaScript: data:scripts.lua/plugins/rulesControl.lua
+LuaCmd: scriptPath - data:scripts.lua/plugins/rulesControl.lua, cmd -InitRules
+LoadLuaScript: data:scripts.lua/plugins/satisfactionControl.lua
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+Message from server: warning! CarBodyDetail::OnActivate (cars/Car50). Detail is not found (cars/Car50/shadow_plane)
+Message from server: warning! CarBodyDetail::OnActivate (cars/Car41). Detail is not found (cars/Car41/shadow_plane)
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+WARNING: undefined shader parameter: AnisotropicSampler
+WARNING: undefined shader parameter: PointSampler
+WARNING: undefined shader parameter: ShadowMapSampler
+WARNING: undefined shader parameter: LightmapSampler
+WARNING: undefined shader parameter: BumpSampler
+WARNING: undefined shader parameter: ClampSampler
+WARNING: undefined shader parameter: dssDepthNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoStencil
+WARNING: undefined shader parameter: dssNoDepthNoStencil
+WARNING: undefined shader parameter: dssDepthNoWriteNoStencil
+WARNING: undefined shader parameter: dssDepthInvNoWriteNoStencil
+WARNING: undefined shader parameter: rsCullFront
+WARNING: undefined shader parameter: rsCullFrontDB
+WARNING: undefined shader parameter: rsCullFrontWireframe
+WARNING: undefined shader parameter: rsCullNone
+WARNING: undefined shader parameter: rsCullBack
+WARNING: undefined shader parameter: bsNoBlend
+WARNING: undefined shader parameter: bsNoBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlend
+WARNING: undefined shader parameter: bsAlphaBlendRGB
+WARNING: undefined shader parameter: bsAlphaBlendCompose
+WARNING: undefined shader parameter: bsRedOnly
+WARNING: undefined shader parameter: bsNoColor
+WARNING: undefined shader parameter: bsCompose
+WARNING: undefined shader parameter: bsMax
+_luaClose
+_luaOpen
+LoadLuaScript: export:scripts/missions/bit.lua
+LoadLuaScript: export:scripts/missions/common.lua
+Removing network cars+loadMeshShape: 0.012581
++loadMoppCode: 0.013817
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
++loadMeshShape: 0.009627
++loadMoppCode: 0.010423
++loadMeshShape: 0.017991
++loadMoppCode: 0.020169
++loadMeshShape: 0.028596
++loadMoppCode: 0.031438
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Omni01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Omni02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot01'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot02'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot03'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot04'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot05'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot06'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot07'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot08'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot09'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Fspot10'
+WARNING: undefined shader parameter: LightDiffuse
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightSpecular
+WARNING: invalid shader parameter in object 'Sky01'
+WARNING: undefined shader parameter: LightAmbient
+WARNING: invalid shader parameter in object 'Sky01'
++loadMeshShape: 0.026243
++loadMoppCode: 0.028250
+Message from server: warning! CarBodyDetail::OnActivate (cars/Car60). Detail is not found (cars/Car60/shadow_plane)
++loadMeshShape: 0.021723
++loadMoppCode: 0.023934
++loadMeshShape: 0.015585
++loadMoppCode: 0.016958
++loadMeshShape: 0.013586
++loadMoppCode: 0.014882
+LoadLuaScript: data:scripts.lua/plugins/InitPager.lua
+LuaCmd: scriptPath - data:scripts.lua/plugins/InitPager.lua, cmd -InitPager
+LoadLuaScript: data:scripts.lua/plugins/rulesControl.lua
+LuaCmd: scriptPath - data:scripts.lua/plugins/rulesControl.lua, cmd -InitRules
+LoadLuaScript: data:scripts.lua/plugins/satisfactionControl.lua
+nMesh2: could not load geometry 'home:export/meshes/characters/pedestrians/pedestrian18/human_run_lod2.nvx2'!
